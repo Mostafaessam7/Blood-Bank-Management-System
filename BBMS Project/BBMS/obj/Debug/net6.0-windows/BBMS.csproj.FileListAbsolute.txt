@@ -1,0 +1,92 @@
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\BBMS.exe
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\BBMS.deps.json
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\BBMS.runtimeconfig.json
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\BBMS.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\BBMS.pdb
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\Bunifu.Dataviz.WinForms.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\RestSharp.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\System.CodeDom.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\System.Management.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.csproj.AssemblyReference.cache
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Donor.resources
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Login.resources
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Mainform.resources
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Properties.Resources.resources
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Splash.resources
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.csproj.GenerateResource.cache
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.AssemblyInfoInputs.cache
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.AssemblyInfo.cs
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.csproj.CoreCompileInputs.cache
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.csproj.CopyComplete
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.dll
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\refint\BBMS.dll
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.pdb
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.genruntimeconfig.cache
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\ref\BBMS.dll
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.BloodStock.resources
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.BloodTransfert.resources
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.DashBoard.resources
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Patient.resources
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.ViewDonor.resources
+E:\C# WinForm Project\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.ViewPatients.resources
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\C# WinForm Project\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\BBMS.exe
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\BBMS.deps.json
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\BBMS.runtimeconfig.json
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\BBMS.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\BBMS.pdb
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\Bunifu.Dataviz.WinForms.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\RestSharp.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\System.CodeDom.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\System.Management.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.csproj.AssemblyReference.cache
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.BloodStock.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.BloodTransfert.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.DashBoard.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Donor.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Login.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Mainform.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Patient.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Properties.Resources.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.Splash.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.ViewDonor.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.ViewPatients.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.csproj.GenerateResource.cache
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.AssemblyInfoInputs.cache
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.AssemblyInfo.cs
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.csproj.CoreCompileInputs.cache
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.csproj.Up2Date
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.dll
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\refint\BBMS.dll
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.pdb
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\BBMS.genruntimeconfig.cache
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net6.0-windows\ref\BBMS.dll

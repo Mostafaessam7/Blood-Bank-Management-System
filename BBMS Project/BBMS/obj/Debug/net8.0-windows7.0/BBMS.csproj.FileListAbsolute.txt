@@ -1,0 +1,323 @@
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.exe
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.deps.json
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.runtimeconfig.json
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.pdb
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Dataviz.WinForms.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Licensing.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.UI.WinForms.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Guna.UI2.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\RestSharp.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Management.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\web .net\days\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.AssemblyReference.cache
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodStock.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodTransfert.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DashBoard.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Donor.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Login.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Mainform.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Patient.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Properties.Resources.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Splash.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewDonor.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewPatients.resources
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.GenerateResource.cache
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfoInputs.cache
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfo.cs
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.CoreCompileInputs.cache
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.Up2Date
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.dll
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\refint\BBMS.dll
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.pdb
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.genruntimeconfig.cache
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\ref\BBMS.dll
+D:\web .net\days\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DonateBlood.resources
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.exe
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.deps.json
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.runtimeconfig.json
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.pdb
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Dataviz.WinForms.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Licensing.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.UI.WinForms.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Guna.UI2.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\RestSharp.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Management.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI Back End\C# project\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.AssemblyReference.cache
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodStock.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodTransfert.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DashBoard.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DonateBlood.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Donor.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Login.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Mainform.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Patient.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Properties.Resources.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Splash.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewDonor.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewPatients.resources
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.GenerateResource.cache
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfoInputs.cache
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfo.cs
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.CoreCompileInputs.cache
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.Up2Date
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.dll
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\refint\BBMS.dll
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.pdb
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.genruntimeconfig.cache
+D:\ITI Back End\C# project\BBMS\BBMS\obj\Debug\net8.0-windows7.0\ref\BBMS.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.exe
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Guna.UI2.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Dataviz.WinForms.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Licensing.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.UI.WinForms.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\RestSharp.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Management.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Management.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.AssemblyReference.cache
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AdminLogin.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodStock.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodTransfert.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DashBoard.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DonateBlood.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Donor.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Employee.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Login.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Mainform.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Patient.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Properties.Resources.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Splash.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewDonor.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewPatients.resources
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.GenerateResource.cache
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfoInputs.cache
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfo.cs
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.CoreCompileInputs.cache
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.Up2Date
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\refint\BBMS.dll
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.pdb
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.deps.json
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.runtimeconfig.json
+K:\WF Final Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.pdb
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.genruntimeconfig.cache
+K:\WF Final Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\ref\BBMS.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.exe
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.deps.json
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.runtimeconfig.json
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.pdb
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Dataviz.WinForms.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Licensing.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.UI.WinForms.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Guna.UI2.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\RestSharp.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Management.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.AssemblyReference.cache
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AdminLogin.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodStock.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodTransfert.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DashBoard.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DonateBlood.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Donor.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Employee.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Login.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Mainform.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Patient.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Properties.Resources.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Splash.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewDonor.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewPatients.resources
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.GenerateResource.cache
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfoInputs.cache
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfo.cs
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.CoreCompileInputs.cache
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.Up2Date
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\refint\BBMS.dll
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.pdb
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.genruntimeconfig.cache
+D:\cs\Project\BBMS\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\ref\BBMS.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.exe
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.deps.json
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.runtimeconfig.json
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.pdb
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Dataviz.WinForms.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Licensing.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.UI.WinForms.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Guna.UI2.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\RestSharp.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Management.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.AssemblyReference.cache
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AdminLogin.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodStock.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodTransfert.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DashBoard.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DonateBlood.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Donor.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Login.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Mainform.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Properties.Resources.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Splash.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewDonor.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewPatients.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.GenerateResource.cache
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfoInputs.cache
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfo.cs
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.CoreCompileInputs.cache
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.Up2Date
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\refint\BBMS.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.pdb
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.genruntimeconfig.cache
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\ref\BBMS.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\EntityFramework.SqlServer.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\EntityFramework.dll
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Migrations.init.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.PatientF.resources
+D:\web .net\days\BBMS Final\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.EmployeeF.resources
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.exe
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.deps.json
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.runtimeconfig.json
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.pdb
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Dataviz.WinForms.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Licensing.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.UI.WinForms.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\EntityFramework.SqlServer.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\EntityFramework.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Guna.UI2.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\RestSharp.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Management.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cs\Project\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.AssemblyReference.cache
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AdminLogin.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodStock.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodTransfert.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DashBoard.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DonateBlood.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Donor.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.EmployeeF.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Login.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Mainform.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Migrations.init.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.PatientF.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Properties.Resources.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Splash.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewDonor.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewPatients.resources
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.GenerateResource.cache
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfoInputs.cache
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfo.cs
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.CoreCompileInputs.cache
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.Up2Date
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.dll
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\refint\BBMS.dll
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.pdb
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.genruntimeconfig.cache
+D:\cs\Project\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\ref\BBMS.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.exe
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.deps.json
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.runtimeconfig.json
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\BBMS.pdb
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Dataviz.WinForms.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.Licensing.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Bunifu.UI.WinForms.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\EntityFramework.SqlServer.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\EntityFramework.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Guna.UI2.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\RestSharp.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\System.Management.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.AssemblyReference.cache
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AdminLogin.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodStock.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.BloodTransfert.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DashBoard.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.DonateBlood.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Donor.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.EmployeeF.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Login.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Mainform.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Migrations.init.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.PatientF.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Properties.Resources.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Splash.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewDonor.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.ViewPatients.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.GenerateResource.cache
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfoInputs.cache
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.AssemblyInfo.cs
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.CoreCompileInputs.cache
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.csproj.Up2Date
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\refint\BBMS.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.pdb
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.genruntimeconfig.cache
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\ref\BBMS.dll
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Migrations.UPdateNID.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.Migrations.UPdateIDentity.resources
+D:\web .net\days\BBMSFinal\BBMS\BBMS\BBMS\obj\Debug\net8.0-windows7.0\BBMS.sourcelink.json
